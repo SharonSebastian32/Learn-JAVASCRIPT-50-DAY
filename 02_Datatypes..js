@@ -15,6 +15,8 @@ let isGraduated = true;
 //null => standalone value  representation of
 //undefined =>
 //symbol => unique
+
+
 //object
 
 let age;
@@ -30,3 +32,11 @@ console.log(typeof undefined); // type of undefined is undefined
 console.log(typeof null); // type of null is object
  
 
+
+
+
+ //  Primitive
+
+//  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
+
+ 
