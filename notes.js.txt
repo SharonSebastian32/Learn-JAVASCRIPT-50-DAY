@@ -1,0 +1,15 @@
+variables
+1. variable are always declared with a rule whicg is called  camelCasing 🐪
+
+
+
+final conclusion
+1. const cannot be  updated
+2. var, let can be updatable 
+
+
+
+
+{
+    scope
+}
